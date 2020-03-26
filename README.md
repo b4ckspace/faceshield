@@ -8,4 +8,4 @@ The sheet is attached with standard pattern holes that can be created with a nor
 
 ## Status
 
-We just started. First prototypes look promissing but we are still in the process of accquiring the proper materials. Expect updates the next days.
+We just started. First prototypes look promising but we are still in the process of accquiring the proper materials. Expect updates the next days.
