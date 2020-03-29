@@ -56,14 +56,14 @@ module outer(l, w) {
             }
             for (msx = [-1, 1]) {
                 scale([msx, 1]) {
-                    translate([(l-20)/2, 0, 0])roundedRectangle(32, 12, 1, 3);
+                    translate([(l-20)/2, 0, 0])roundedRectangle(32, 10, 1, 3);
                 }
             }
         }
         holes(l);
         for (i = [-1, 1]) {
             translate([i*((l+40)/2), 0, 0])
-                cylinder(h=3, d=6, center=true);
+                cylinder(h=3, d=4, center=true);
         }
         roundover(w/2, l+w+40);
     }
@@ -79,8 +79,8 @@ module inner(l, w) {
 }
 
 
-//projection()
+projection()
 {
-    outer(370, 10);
-    translate([0, -20, 0])inner(320, 12);
+    outer(370, 8);
+    translate([0, -20, 0])inner(320, 8);
 }
