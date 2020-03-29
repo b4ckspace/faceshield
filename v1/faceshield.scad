@@ -1,5 +1,5 @@
 $fa = 6;
-$fs = 0.5;
+$fs = 1;
 
 module mushroom (h=6) {
     translate([0, h-3.5, -0.5])
@@ -31,35 +31,56 @@ module roundover(r, w) {
     }
 }
 
-module outer(w) {
+module roundedRectangle(x, y, z, r) {
+    difference() {
+        cube([x, y, z], center=true);
+        for (sx = [-1, 1]) {
+           for (sy = [-1, 1]) {
+              scale([sx, sy]) {
+                translate([x/2, y/2])difference() {
+                    cube([2*r, 2*r, 2*z], center=true);
+                    translate([-r, -r])cylinder(3*z, r=r, center=true);
+                }
+              }
+            }
+        }
+    }
+}
+
+module outer(l, w) {
     difference() {
         union(){
-            cube([420, w, 1], center=true);
+            cube([l+w+40, w, 1], center=true);
             for (i=[-2.5:2.5]) {
                 translate([i*79, w/2, 0])mushroom();
             }
+            for (msx = [-1, 1]) {
+                scale([msx, 1]) {
+                    translate([(l-20)/2, 0, 0])roundedRectangle(32, 12, 1, 3);
+                }
+            }
         }
-        holes(420-w-40);
+        holes(l);
         for (i = [-1, 1]) {
-            translate([i*((420-w)/2), 0, 0])
+            translate([i*((l+40)/2), 0, 0])
                 cylinder(h=3, d=6, center=true);
         }
-        roundover(w/2, 420);
+        roundover(w/2, l+w+40);
     }
 }
 
 
-module inner(w) {
+module inner(l, w) {
     difference() {
-        cube([330, w, 1], center=true);
-        holes(330-w);
-        roundover(w/2, 330);        
+        cube([l+w, w, 1], center=true);
+        holes(l);
+        roundover(w/2, l+w);
     }
 }
 
 
-projection() 
+//projection()
 {
-    outer(12);
-    translate([0, -20, 0])inner(12);
+    outer(370, 10);
+    translate([0, -20, 0])inner(320, 12);
 }
