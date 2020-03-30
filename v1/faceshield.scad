@@ -63,7 +63,7 @@ module outer(l, w) {
         holes(l);
         for (i = [-1, 1]) {
             translate([i*((l+40)/2), 0, 0])
-                cylinder(h=3, d=4, center=true);
+                cylinder(h=3, d=42, center=true);
         }
         roundover(w/2, l+w+40);
     }
