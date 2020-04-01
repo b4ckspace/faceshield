@@ -51,8 +51,8 @@ module outer(l, w) {
     difference() {
         union(){
             cube([l+w+40, w, 1], center=true);
-            for (i=[-2.5:2.5]) {
-                translate([i*79, w/2, 0])mushroom();
+            for (posx=[-2.5*79+2.5, -1.5*79, -0.5*79, 0.5*79, 1.5*79, 2.5*79-2.5]) {
+                translate([posx, w/2, 0])mushroom();
             }
             for (msx = [-1, 1]) {
                 scale([msx, 1]) {
