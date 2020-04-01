@@ -55,8 +55,8 @@ module outer(lt, l, w, wi) {
             translate([-2*w, (w-wi)/2])roundedRectangle(lt-4*w, wi, 1, wi/2);
             roundedRectangle(70, w, 1, wi/2);
             translate([lt/2-2.6*w, (w-wi)/2])clip(w, wi);
-            for (i=[-2.5:2.5]) {
-                translate([i*79, w/2, 0])mushroom();
+            for (posx=[-2.5*79+2.5, -1.5*79, -0.5*79, 0.5*79, 1.5*79, 2.5*79-2.5]) {
+                translate([posx, w/2, 0])mushroom();
             }
             for (msx = [-1, 1])scale([msx, 1, 1]) {
                 translate([l/2+1.25*w, 0, 0])roundedRectangle(3*w, w, 1, 3);
@@ -116,7 +116,7 @@ module topshield() {
             translate([0, -60, 0])cube([350, 350, 3], center=true);
         }
         for (sx = [-1, 1]) scale([sx, 1, 1]) {
-                #translate([90, -17, 0])rotate(-30)shieldclip(13, 30);
+                translate([90, -17, 0])rotate(-30)shieldclip(13, 30);
         }
     }
 }
