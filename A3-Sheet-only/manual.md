@@ -1,6 +1,6 @@
 # Face shield from one single A3 sheet
 
-With the Covid-19 outbreak there are multiple projects that provide a face shield. Bu tthey often rely on 3D printed or laser cut parts that are not available to every one. These instruction allow to build a decent face shield from just office supplies. While maybe not as fancy it still provides good protection, is stable enough and provides good comfort. It is also probably one of the lightest face shields available.
+With the COVID-19 outbreak, there are multiple projects that provide a face shield. But they often rely on 3D printed or laser cut parts that are not available to everyone. These instructions allow building a decent face shield from just office supplies. While maybe not as fancy it still provides good protection, is stable enough and provides good comfort. It is also probably one of the lightest face shields available.
 
 You need:
 
@@ -23,7 +23,7 @@ Instructions:
   * Have the staples joining the stripes right inside of the staple area
   * Make sure the strip is parallel to the top and bottom edge
 * Staple the strip to the right side but make the strip 8 cm shorter than the shield
-  * The sides of the shild should bend backward
+  * The sides of the shield should bend backward
 * Bend the top of the sheet at the 4cm cuts so the sides and the top bend inwards
   * Make sure the 4x4cm tab is on the inside
   * Let the corners of the outside parts touch
