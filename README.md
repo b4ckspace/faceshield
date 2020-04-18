@@ -6,7 +6,7 @@ Our face shields are laser cut which allows producing lots of shields quickly. W
 
 The sheet is attached with standard pattern holes that can be created with a normal 80mm, Euro pattern hole puncher. Support for 888 patterns or full 4 hole punchers are of benefit.
 
-* [First try](v1/) - still promitive, use hollow rivets for construction
+* [First try](v1/) - still primitive, use hollow rivets for construction
 * [More sophisticated variant](v2/)
 * [A full cut shield for thicker material](v3/)
 * [An shield cut out of an A3 sheets with scissors](A3-Sheet-only/manual.md)
