@@ -14,6 +14,7 @@ You need:
 Instructions:
 
 * Cut sheet as shown in the SVG
+ * There are two variants: One with hints for assembly and one with only the cutting lines
 * Fold both 4cm stripes along their length
 * Then overlap them for a few centimeters and join them with two staples
 * Put the thin 2cm stripe through the 2cm slits in the middle.
