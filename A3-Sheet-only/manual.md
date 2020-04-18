@@ -40,3 +40,5 @@ Instructions:
   * Secure with a paper clip 
 
 You are done! Stay healthy!
+
+![cutting schematic](A3-cutting-pattern.svg)
