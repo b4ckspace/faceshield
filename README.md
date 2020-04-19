@@ -13,7 +13,7 @@ Still primitive, uses hollow rivets for construction
 
 
 ## Version 2
-More sofisticated. Comes with a shield for the fore head. No needs for fasteners.
+More sophisticated. Comes with a shield for the fore head. Is more flat at the front. No needs for fasteners.
 ![Shield Version 2.1](v2/v2.1-a4-shield-complete.jpg)
 [Details](v2/)
 
