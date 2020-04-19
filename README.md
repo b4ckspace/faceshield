@@ -24,7 +24,7 @@ A full shield cut from thicker material (0.7mm PET and 0.8mm PP).
 [Details](v3/)
 
 ## Shield from Office Supplies
-A shield made only out of an A3 sheets with normal office suppies. No need for a laser cutter or other exotic tools.
+A shield made only out of an A3 sheets with normal office supplies. No need for a laser cutter or other exotic tools.
 ![A3 Shield](A3-Sheet-only/a3-shield-complete.jpg)
 
 [Build instructions](A3-Sheet-only/manual.md)
