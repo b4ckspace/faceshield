@@ -9,7 +9,7 @@ The sheet is attached with standard pattern holes that can be created with a nor
 * [First try](v1/) - still primitive, use hollow rivets for construction
 * [More sophisticated variant](v2/)
 * [A full cut shield for thicker material](v3/)
-* [An shield cut out of an A3 sheets with scissors](A3-Sheet-only/manual.md)
+* [A shield made only out of an A3 sheets with normal office suppies](A3-Sheet-only/manual.md)
 
 ## Status
 

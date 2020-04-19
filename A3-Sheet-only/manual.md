@@ -2,6 +2,8 @@
 
 With the COVID-19 outbreak, there are multiple projects that provide a face shield. But they often rely on 3D printed or laser cut parts that are not available to everyone. These instructions allow building a decent face shield from just office supplies. While maybe not as fancy it still provides good protection, is stable enough and provides good comfort. It is also probably one of the lightest face shields available.
 
+![A3 Shield](a3-shield-complete.jpg)
+
 You need:
 
 * Transparent A3 sheet about 0.2mm thick
@@ -14,7 +16,7 @@ You need:
 Instructions:
 
 * Cut sheet as shown in the SVG
- * There are two variants: One with hints for assembly and one with only the cutting lines
+ * There are two variants: [One with hints for assembly](A3-cutting-pattern.svg) and [one with only the cutting lines](A3-cutting-pattern-print.svg)
 * Fold both 4cm stripes along their length
 * Then overlap them for a few centimeters and join them with two staples
 * Put the thin 2cm stripe through the 2cm slits in the middle.
@@ -32,6 +34,9 @@ Instructions:
   * Do the same for the other side
 * Bend the 2cm strip into a loop that keeps the shield about 2cm from the strap
   * Staple the loop to the strap
+
+![Details](a3-shield-details.jpg)
+
 * Put on the mask and adjust the length of the strap
 * You can now either:
   * Secure it with one staple
