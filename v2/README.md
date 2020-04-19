@@ -15,4 +15,4 @@ Connect the flaps at the front by twisting them an put the inner ends through th
 
 ![Details](v2.1-a4-shield-offen.jpg)
 
-If you want the front shield to be less round at the bottom you can put two of the small pieces with the mushrooms at the ends into holes on both sides. You need an 888 holes patter at the bottom of the sheet for this (4 holes each 80mm appart). But we found that to not be necessary.
+If you want the front shield to be less round at the bottom you can put two of the small pieces with the mushrooms at the ends into holes on both sides. You need an 888 holes pattern at the bottom of the sheet for this (4 holes each 80mm appart). But we found that to not be necessary.
