@@ -8,12 +8,13 @@ The sheet is attached with standard pattern holes that can be created with a nor
 
 ## Version 1
 Still primitive, uses hollow rivets for construction
-
+![Shield Version 1](v1/faceshield.svg)
 [Details](v1/)
 
 
 ## Version 2
 More sofisticated. Comes with a shield for the fore head. No needs for fasteners.
+![Shield Version 2.1](v2/v2.1-a4-shield-complete.jpg)
 [Details](v2/)
 
 ## Version 3
