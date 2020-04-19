@@ -6,10 +6,27 @@ Our face shields are laser cut which allows producing lots of shields quickly. W
 
 The sheet is attached with standard pattern holes that can be created with a normal 80mm, Euro pattern hole puncher. Support for 888 patterns or full 4 hole punchers are of benefit.
 
-* [First try](v1/) - still primitive, use hollow rivets for construction
-* [More sophisticated variant](v2/)
-* [A full cut shield for thicker material](v3/)
-* [A shield made only out of an A3 sheets with normal office suppies](A3-Sheet-only/manual.md)
+## Version 1
+Still primitive, uses hollow rivets for construction
+
+[Details](v1/)
+
+
+## Version 2
+More sofisticated. Comes with a shield for the fore head. No needs for fasteners.
+[Details](v2/)
+
+## Version 3
+A full shield cut from thicker material (0.7mm PET and 0.8mm PP).
+![Shield V3.2](v3/bckspc_faceshield_v32_01.jpg)
+
+[Details](v3/)
+
+## Shield from Office Supplies
+A shield made only out of an A3 sheets with normal office suppies. No need for a laser cutter or other exotic tools.
+!(A3 Shield)[A3-Sheet-only/a3-shield-complete.jpg]
+
+[Build instructions](A3-Sheet-only/manual.md)
 
 ## Status
 
