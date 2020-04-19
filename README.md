@@ -6,6 +6,8 @@ Our face shields are laser cut which allows producing lots of shields quickly. W
 
 The sheet is attached with standard pattern holes that can be created with a normal 80mm, Euro pattern hole puncher. Support for 888 patterns or full 4 hole punchers are of benefit.
 
+See our [detailed instructions](hole_patterns.md) on how to create these hole patterns.
+
 ## Version 1
 Still primitive, uses hollow rivets for construction
 ![Shield Version 1](v1/faceshield.svg)
