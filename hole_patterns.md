@@ -41,4 +41,4 @@ Our design currently does not support this hole pattern. But it can be added eas
 
 All sheets need to be cut into shape to allow head movement. A4 can be used uncut, but is much more comfortable if the lower corners are clipped. A4 sheets offer just enough protection for many use cases.
 
-A3 sheets offer much better protection. But if used in their full size are just too big and don't let enough fresh air in. They need to be cut to size. You want to cut off the bottom corners up to the top edge and probably even shorten it at the bottom. It is difficult to gve general advice here as all use cases are different.
+A3 sheets offer much better protection. But if used in their full size are just too big and don't let enough fresh air in. They need to be cut to size. You want to cut off the bottom corners up to the top edge and probably even shorten it at the bottom. It is difficult to give general advice here as all use cases are different.
